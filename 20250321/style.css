@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    border: 1PX solid black;
+     padding: 10px;
+     background-color: yellow;
+     width: 500px;
+     margin: auto;
+     border-radius: 10px;
+}
+section{
+
+    border-bottom: 10px solid black;
+}
+img{
+    border-radius: 50%;
+}
