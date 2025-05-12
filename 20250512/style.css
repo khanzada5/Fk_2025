@@ -1,0 +1,24 @@
+h1{
+   text-align: center;
+   color: green;
+   border: 1px solid black;
+   padding: 10px;
+   background-color: burlywood ;
+   width: 500px;
+   margin: auto;
+   border-radius: 10px;
+   margin-top: 20px;
+}
+span{
+color: black;
+
+}
+section{
+    border-top: 10px solid burlywood;
+    border-radius: 5px;
+}
+
+img{
+   border-radius: 50px; 
+   margin-top: 10px;
+}
